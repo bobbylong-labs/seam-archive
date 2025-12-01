@@ -1,2 +1,2 @@
 # seam-archive
-Historical archive and geometry of early seam-state behavior in frontier language models.
+Structural archive of deep-regime GPT behaviors (GPT-4 → GPT-5 → GPT-5.1)
